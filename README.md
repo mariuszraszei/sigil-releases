@@ -27,7 +27,7 @@ To repozytorium zawiera **wyłącznie gotowe instalatory**.
    Kliknij **Więcej informacji** → **Uruchom mimo to**.
 3. Sigil zainstaluje się i uruchomi sam (skrót pojawi się na pulpicie i w menu Start).
 
-**Aktualizacje** przychodzą automatycznie — gdy będzie nowa wersja, Sigil pokaże „Uruchom ponownie”.
+**Aktualizacje** przychodzą same — bez serwerów: nowa wersja rozchodzi się P2P między członkami waszych grup, a Sigil instaluje ją dopiero po sprawdzeniu podpisu wydawcy. Gdy będzie gotowa, zobaczysz „Uruchom ponownie”.
 
 ---
 
@@ -60,7 +60,7 @@ To repozytorium zawiera **wyłącznie gotowe instalatory**.
 ### Różnice na Macu
 
 - Przy udostępnianiu ekranu nie da się przesłać **dźwięku systemu** (ograniczenie macOS) — obraz działa normalnie.
-- Aktualizacje na Macu instaluje się ręcznie: pobierz nowy `.dmg` i przeciągnij Sigil do Aplikacji (zastąp starą wersję). Konto, grupy i wiadomości zostają.
+- Aktualizacje Sigil pobiera sam od znajomych (P2P, z weryfikacją podpisu), ale na Macu instalację trzeba potwierdzić: kliknij **Zainstaluj**, otworzy się nowy `.dmg` — przeciągnij Sigil do Aplikacji i zastąp starą wersję. Konto, grupy i wiadomości zostają.
 
 ---
 
